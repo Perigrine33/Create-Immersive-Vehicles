@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {"item": "create:zinc_ingot"},
+    "B": {"item": "minecraft:iron_nugget"},
+    "C": {"item": "create:andesite_alloy"}
+  },
+  "pattern": [
+    "CBC",
+    "BAB",
+    "CBC"
+  ],
+  "result": {
+    "count": 1,
+    "id": "create_immersive vehicles:ball_bearing"
+  }
+}

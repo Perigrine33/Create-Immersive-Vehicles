@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "create_immersive_vehicles:item/andesite_biplane"
+  }
+}
